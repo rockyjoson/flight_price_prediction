@@ -22,4 +22,12 @@ Gradient Boosting Regressor.
 
 6.	Random Forest Regressor showed highest R2 score and again to improve the model, done Hyperparameter tuning on it.
 
-7.	Developed and deployed a Web Application using Python Flask to predict the Ticket Price. 
+7.	Developed and deployed a Web Application using Python Flask to predict the Ticket Price.
+
+# Web App
+
+This is how the final web page looks like
+
+![Screenshot (43)](https://github.com/rockyjoson/flight_price_prediction/assets/135303405/75026b53-58ac-491f-95cd-dc69b9cb3bf9)
+
+   
