@@ -26,7 +26,7 @@ Gradient Boosting Regressor.
 
 # Web App
 
-This is how the final web page looks like
+This is how the final web page looks like.
 
 ![Screenshot (43)](https://github.com/rockyjoson/flight_price_prediction/assets/135303405/75026b53-58ac-491f-95cd-dc69b9cb3bf9)
 
